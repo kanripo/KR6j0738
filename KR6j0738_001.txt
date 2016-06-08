@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:52.824258
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 觀自在菩薩如意輪呪課法
 #+PROPERTY: CBETA_ID T46n1952
 #+PROPERTY: ID KR6j0738
@@ -166,9 +166,9 @@ No. 1952¶
 　慇懃讚揚
 　諸陀羅尼¶
 　無為等者
-　(陳意)
+　(陳意)」
 #+END_VERSE
-」¶
+¶
 
 一心頂禮本師釋迦牟尼世尊。¶
 
